@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>units</key>
+	<integer>2</integer>
+	<key>useCurrentLocation</key>
+	<true/>
+	<key>location</key>
+	<array>
+		<real>37.3333</real>
+		<real>-122.0068</real>
+	</array>
+	<key>savedLocations</key>
+	<array/>
+</dict>
+</plist>
